@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // print a table of fahr converted to celsius from f = 0 to f = 300
+    // print a table of fahrenheit converted to celsius from f = 0 to f = 300
     int lower, upper, step; 
     float fahrenheit, celsius;
     lower = 0;
